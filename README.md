@@ -34,7 +34,7 @@ Check `scripts` section of `package.json`
 
 ## Contribute
 
-Thanks for taking time to contribute, this project uses [gatsby](https://github.com/gatsbyjs/gatsby). please checkout [src](src) to understand how things work.
+Thanks for taking time to contribute.
 
 ### Reporting Issues
 
